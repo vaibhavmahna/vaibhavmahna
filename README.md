@@ -1,126 +1,146 @@
 <div align="center">
 
-# Hi, I'm Vaibhav Mahna 👋
-### **DevSecOps & Cloud Reliability Engineer | Systems Automation, Security & Identity Architect** 
+# 🏛️ Vaibhav Mahna
+### **DevSecOps & Cloud Reliability Engineer | Systems Automation, Security & Identity Architect**
 📍 *Woodstock, Ontario, Canada 🇨🇦*
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0078D4&center=true&vCenter=true&width=750&lines=DevSecOps+%26+Cloud+Reliability+Engineer;Systems+Automation,+Security+%26+Identity+Architect;Automating+Infrastructure+%7C+Enterprise+Linux+%7C+Azure+%7C+AWX)](https://git.io/typing-svg)
 
 <br />
 
-[![Email](https://img.shields.io/badge/Email-vaibhavmahna56%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavmahna56@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-m-8abb96100)
+[![Email](https://img.shields.io/badge/Enterprise_Email-vaibhavmahna56%40gmail.com-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vaibhavmahna56@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vaibhav-m-8abb96100)
 [![GitHub](https://img.shields.io/badge/GitHub-vaibhavmahna-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaibhavmahna)
 
 <br />
 
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
-![Ansible](https://img.shields.io/badge/Red_Hat_Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![AWX](https://img.shields.io/badge/Ansible_AWX-000000?style=flat-square&logo=ansible&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  OPERATIONAL SCOPE: Enterprise Infrastructure • Zero-Trust Identity • Fleet Automation │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Red Hat Ansible](https://img.shields.io/badge/Red_Hat_Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Ansible AWX](https://img.shields.io/badge/Ansible_AWX-000000?style=flat-square&logo=ansible&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform_IaC-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Linux CIS](https://img.shields.io/badge/Linux_CIS_Hardened-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Microsoft Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0089D6?style=flat-square&logo=windows&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Entra ID](https://img.shields.io/badge/Microsoft_Entra_ID-0089D6?style=flat-square&logo=windows&logoColor=white)
 
 </div>
 
 ---
 
-### 👨‍💻 Executive Engineering Profile
+## 📋 Executive Engineering Summary
 
-I am a **DevSecOps and Cloud Reliability Engineer** specializing in designing, automating, and maintaining mission-critical enterprise systems. My core engineering focuses on:
+Senior **DevSecOps and Cloud Reliability Engineer** with extensive experience architecting, hardening, and operating mission-critical hybrid cloud infrastructure. Specialized in building policy-driven identity governance models, centralizing fleet orchestration via Red Hat AWX/Tower, and establishing automated CIS-compliant security baselines.
 
-* **Policy-Driven Security & Identity Governance:** Eliminating standing administrative privileges via department-wide Privileged Access Management (PAM) rollouts, enforcing Microsoft Entra ID conditional access, building automated Self-Service Password Reset (SSPR) platforms, and hardening OS baselines to strict CIS benchmarks.
-* **Orchestration & Operational Automation:** Eliminating manual administrative toil through central Ansible Control Nodes, Red Hat AWX Tower workflows, Terraform Infrastructure as Code (IaC), and end-to-end automated OS patch lifecycle pipelines.
-* **Data Integration & Platform Reliability:** Building resilient ingestion pipelines into Microsoft Azure Blob Storage (SFTP, Fax servers, Barracuda data), orchestrating enterprise IPAM systems, and monitoring hybrid workloads across Azure Virtual Desktop (AVD) and Citrix.
-
----
-
-### 🛠 Comprehensive Tech Stack & Domain Expertise
-
-#### 1. Cloud Platforms, Compute & Storage Architectures
-* **Microsoft Azure Core:** Subscription models, Management Groups, Resource Groups, Azure Policy, Role-Based Access Control (RBAC).
-* **Storage & Tiering:** Azure Blob Storage (Hot, Cool, Cold, Archive tiers), Lifecycle Management policies, SAS tokens, Private Endpoints, Storage Explorer automation.
-* **Networking Infrastructure:** Azure Virtual Networks (VNets), Subnets, Network Security Groups (NSGs), Application Security Groups (ASGs), Azure DNS, User-Defined Routing (UDR), IPAM Tooling.
-* **End-User Compute:** Azure Virtual Desktop (AVD) host pools, application groups, workspace provisioning, and Citrix virtual apps/desktops infrastructure.
-
-#### 2. Configuration Management, Orchestration & IaC
-* **Ansible Automation:** Architecture and maintenance of dedicated Ansible Control Nodes, dynamic inventories, custom modules, jinja2 templates, and idempotent playbooks.
-* **Ansible AWX / Tower:** Job templates, workflow templates, credentials isolation, RBAC delegation, scheduled dispatching, and webhook notifications.
-* **Infrastructure as Code (IaC):** Modular Terraform templates, remote state locking in Azure Storage, CI/CD provisioning pipelines, and configuration drift remediation.
-* **Scripting & Tooling:** Advanced PowerShell (Core/Desktop scripting, module authoring), Python (automation scripts, data ingestion, REST interaction), Bash, and Git version control.
-
-#### 3. Operating Systems, Security Hardening & Patch Governance
-* **Linux Systems:** Red Hat Enterprise Linux (RHEL), Ubuntu Server, Debian, and specialized Linux VM nodes.
-* **CIS Benchmark Hardening:** Automated implementation of CIS Level 1 and Level 2 security profiles (filesystem permissions, PAM security, SSH cipher hardening, kernel parameters via sysctl, auditd rules, and service minimization).
-* **Automated Patch Lifecycle:** End-to-end patching orchestration via AWX (pre-patch validation, automated snapshotting, package repository sync, staging updates, system reboots, daemon health verification, and rollback logic).
-* **Windows Server:** Enterprise Windows Server management, Active Directory Domain Services (AD DS), Group Policy Objects (GPOs), and automated update management.
-
-#### 4. Enterprise Identity, Access & Data Integration
-* **Identity & Access Management:** Microsoft Entra ID (Azure AD), Single Sign-On (SSO), Multi-Factor Authentication (MFA), Conditional Access Policies, Self-Service Password Reset (SSPR) tooling.
-* **Privileged Access Management (PAM):** Enterprise-wide Privileged Account Rollout, administrative identity separation, least privilege enforcement, and credential hygiene.
-* **Data Archival & Integration Pipelines:** Custom SFTP upload scripting, CFAX Server automation for document-to-blob transformation, and Barracuda archival processes.
-* **Monitoring & Observability:** Azure Monitor, Log Analytics (KQL queries), Citrix Performance Monitoring Dashboards, alert notification rules, and enterprise Wiki knowledge portals.
+| Strategic Domain | Engineering Focus & Capabilities |
+| :--- | :--- |
+| **🔒 Identity & Governance** | Department-wide Privileged Access Management (PAM), Entra ID Conditional Access, automated SSPR infrastructure, and RBAC privilege separation. |
+| **⚡ Orchestration & IaC** | Enterprise Ansible AWX Tower control planes, idempotent playbook engineering, modular Terraform IaC templates, and drift remediation. |
+| **🛡️ Infrastructure Security** | CIS Level 1 & Level 2 OS hardening, SSH cipher policies, kernel parameter optimization, and automated patch lifecycle pipelines. |
+| **☁️ Cloud & Platform Reliability** | Azure Core (VNets, NSGs, Private Endpoints), Blob Storage archival pipelines (SFTP/CFAX/Barracuda), AVD/Citrix performance monitoring. |
 
 ---
 
-### 🏗 In-Depth Engineering Initiatives & Architecture Case Studies
+## 🛠️ Enterprise Architecture & Technical Competencies
 
-#### ⚙️ 1. Centralized Automation Control Plane (Ansible & AWX Tower)
-* **Design & Implementation:** Architected and deployed dedicated Ansible Control Nodes paired with Red Hat AWX Tower to serve as the unified automation hub for enterprise infrastructure.
-* **Workflow Automation:** Built structured job templates and multi-step workflow templates that handle server provisioning, post-boot bootstrapping, security agent deployment, and routine operational maintenance.
-* **Operational Impact:** Replaced disjointed manual scripts with standardized, auditable, and role-delegated push-button operations, drastically reducing provisioning lead time.
+### 1. Cloud Infrastructure & Hybrid Network Architecture
+* **Microsoft Azure Core Management:** Multi-subscription governance, Management Group hierarchy, Azure Policy enforcement, Resource Group scoping, and enterprise RBAC.
+* **Storage Engineering & Tiering:** Azure Blob Storage lifecycle management (Hot, Cool, Cold, Archive), SAS token delegation, Storage Explorer automation, and Private Endpoint isolation.
+* **Network Infrastructure:** Azure VNets, Subnets, Network Security Groups (NSGs), Application Security Groups (ASGs), Azure DNS, User-Defined Routing (UDR), and IPAM tooling integration.
+* **Virtual Desktop Infrastructure (VDI):** Azure Virtual Desktop (AVD) host pool orchestration, workspace provisioning, application group management, and Citrix Virtual Apps/Desktops infrastructure.
 
-#### 🛡️ 2. Linux Golden Image Engineering & CIS Benchmark Hardening
-* **Design & Implementation:** Standardized base Linux operating systems (RHEL/Ubuntu) by engineering hardened baseline templates compliant with Center for Internet Security (CIS) benchmarks.
-* **Hardening Scope:** Enforced strict file system partitioning, disabled legacy protocols and unnecessary kernel modules, configured secure SSH authentication ciphers, and implemented comprehensive audit logging policies.
-* **Operational Impact:** Established a security baseline that passed corporate vulnerability audits and eliminated configuration drift across newly deployed workloads.
+### 2. Configuration Management, Automation & IaC
+* **Ansible Control Plane:** Engineering and operational maintenance of dedicated Ansible Control Nodes, dynamic cloud inventories, custom modules, Jinja2 templating, and idempotent execution.
+* **Ansible AWX / Red Hat Tower:** Production job templates, multi-phase workflow dispatching, credentials isolation, RBAC delegation, schedule dispatches, and webhook alert integrations.
+* **Infrastructure as Code (IaC):** Modular Terraform templates, remote state locking in Azure Storage accounts, CI/CD provisioning pipelines, and automated drift detection.
+* **Systems Scripting:** Advanced PowerShell Core/Desktop module development, Python automation (REST API integrations, data transformation), Bash scripting, and Git version control workflows.
 
-#### 🔄 3. End-to-End Automated Linux OS Patching Workflow
-* **Design & Implementation:** Engineered an automated, scheduled patching framework inside Ansible AWX to manage the lifecycle of enterprise Linux servers.
-* **Pipeline Logic:** Authored intelligent playbooks that perform health checks prior to execution, trigger VM snapshot creation, apply targeted security packages, reboot nodes sequentially, verify service recovery, and send execution reports.
-* **Operational Impact:** Eliminated weekend manual patching overhead, reduced maintenance window duration, and ensured zero-day vulnerability remediation across the entire server fleet.
+### 3. Systems Security, Hardening & Fleet Governance
+* **Operating Systems:** Red Hat Enterprise Linux (RHEL 8/9), Ubuntu Server LTS, Debian, Windows Server (2016–2022), and specialized virtual machine workloads.
+* **CIS Benchmark Hardening:** Automated enforcement of CIS Level 1 and Level 2 security profiles (PAM configuration, secure SSH ciphers, kernel tuning via `sysctl`, `auditd` logging rules, and service minimization).
+* **Automated Patch Lifecycle:** End-to-end patching orchestration via AWX (pre-flight checks, automated VM snapshots, repository sync, staging updates, sequential reboots, daemon health verification, and rollback logic).
+* **Identity Infrastructure:** Active Directory Domain Services (AD DS), Group Policy Object (GPO) enforcement, and centralized update management.
 
-#### 🔐 4. Enterprise-Wide Privileged Account Management (PAM) Rollout
-* **Design & Implementation:** Planned and executed the rollout of dedicated Privileged Accounts across all IT engineering and operations personnel.
-* **Governance Model:** Decoupled standard user identities from privileged administrative credentials, enforced strict MFA requirements on elevated accounts, and established least-privilege role boundaries.
-* **Operational Impact:** Significantly mitigated lateral movement risks and established compliance with enterprise security and access audit standards.
-
-#### 🔑 5. Self-Service Password Reset (SSPR) Tooling Architecture
-* **Design & Implementation:** Built and deployed an end-to-end SSPR solution, progressing from initial Proof-of-Concept (POC) validation to full IT/enterprise rollout.
-* **Integration:** Integrated automated identity verification mechanisms with enterprise directory services to empower end users to securely recover credentials independently.
-* **Operational Impact:** Decreased identity-related service desk support ticket volume by **over 40%**, eliminating recurring administrative bottlenecks.
-
-#### ☁️ 6. Cloud Archival & Data Ingestion Pipelines (Azure Blob Storage)
-* **Design & Implementation:** Engineered automated data pipelines to transfer on-premises and legacy archive data directly into scalable Azure Blob Storage tiers.
-* **Pipelines Built:**
-  * Developed robust **SFTP upload automation** with checksum verification and error-handling routines for scheduled data archival.
-  * Configured **CFAX fax server integrations** with background scripts to convert and upload incoming documents directly into secure Azure Blob containers.
-  * Automated data retention and extraction workflows for **Barracuda archival repositories**.
-* **Operational Impact:** Modernized legacy document retention workflows, improved data retrieval speeds, and lowered long-term storage costs.
-
-#### 🌐 7. Enterprise IPAM Implementation, Citrix Dashboards & Knowledge Governance
-* **Design & Implementation:** Deployed and configured IP Address Management (IPAM) tooling to maintain real-time visibility and control over hybrid subnet allocations and DNS mappings.
-* **Dashboards & Documentation:** Designed real-time Citrix monitoring dashboards to track user connection latency, session concurrency, and host resources; built a comprehensive internal **Wiki Portal** housing architectural diagrams, standard operating procedures (SOPs), and incident recovery playbooks.
-* **Operational Impact:** Accelerated troubleshooting resolution times for Tier-2/Tier-3 incidents and eliminated IP address conflict incidents across hybrid cloud environments.
+### 4. Enterprise Identity, Access & Data Integration
+* **Identity & Access Management (IAM):** Microsoft Entra ID (Azure AD), Single Sign-On (SSO), Multi-Factor Authentication (MFA), Conditional Access Policies, and Self-Service Password Reset (SSPR) tooling.
+* **Privileged Access Management (PAM):** Fleet-wide Privileged Account rollout, administrative identity separation, least-privilege enforcement, and credential hygiene.
+* **Data Integration Pipelines:** Automated SFTP data ingestion routines, CFAX server document-to-blob transformation scripts, and Barracuda archival extraction pipelines.
+* **Observability & Analytics:** Azure Monitor, Log Analytics (KQL queries), Citrix Performance Monitoring Dashboards, automated alerting rules, and enterprise SOP wiki governance.
 
 ---
 
-### 📜 Professional Certifications & Education
+## 🏗️ Architecture Initiatives & Technical Case Studies
 
-* 🏅 **Microsoft Certified:** Azure Network Engineer Associate (`AZ-700`)
-* 🏅 **Microsoft Certified:** Azure Administrator Associate (`AZ-104`)
-* 🏅 **Microsoft Certified:** Azure Virtual Desktop Specialty (`AZ-140`)
-* 🏅 **Microsoft Certified:** Azure AI Fundamentals (`AI-900`)
-* 🏅 **Microsoft Certified:** Azure Fundamentals (`AZ-900`)
-* 🎓 **Postgraduate Certificate:** Applied Networking and System Administration | *Conestoga College, Kitchener, ON, Canada* (2018)
-* 🎓 **Bachelor of Technology (B.Tech):** Computer Science | *NIEC, IP University, Delhi* (2016) — *Dean's Honors List*
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│                        ENTERPRISE ENGINEERING CASE STUDIES                             │
+├───────────────────────────────┬───────────────────────────────┬────────────────────────┤
+│ 1. AWX Control Plane          │ 2. CIS Baseline Hardening     │ 3. Automated Patching  │
+│ 4. Enterprise PAM Rollout     │ 5. Automated SSPR Architecture│ 6. Azure Data Ingestion│
+└───────────────────────────────┴───────────────────────────────┴────────────────────────┘
+```
+
+#### ⚙️ Case Study 1: Centralized Automation Control Plane (Ansible AWX Tower)
+* **Architecture:** Deployed dedicated Ansible Control Nodes paired with Red Hat AWX Tower to establish a unified enterprise automation control plane.
+* **Implementation:** Engineered structured job templates and multi-stage workflow templates handling node provisioning, post-boot bootstrapping, security agent installation, and routine ops maintenance.
+* **Operational Impact:** Replaced fragmented manual administration with auditable, RBAC-delegated push-button workflows, reducing server provisioning lead time significantly.
+
+#### 🛡️ Case Study 2: Linux Golden Image Engineering & CIS Hardening
+* **Architecture:** Standardized base operating system images (RHEL/Ubuntu) by engineering hardened baseline templates compliant with Center for Internet Security (CIS) benchmarks.
+* **Implementation:** Enforced file system partitioning, disabled legacy protocols/kernel modules, configured secure SSH authentication ciphers, and implemented comprehensive audit logging (`auditd`).
+* **Operational Impact:** Established a hardened security baseline that passed corporate compliance audits and eliminated configuration drift across newly provisioned workloads.
+
+#### 🔄 Case Study 3: End-to-End Automated Linux OS Patching Workflow
+* **Architecture:** Engineered an automated, scheduled patching framework inside Ansible AWX to govern the complete update lifecycle of enterprise Linux servers.
+* **Implementation:** Authored playbooks featuring pre-flight health validation, automated VM snapshot generation, package sync, staged reboot sequences, daemon verification, and execution reporting.
+* **Operational Impact:** Eliminated weekend manual patching overhead, shortened maintenance windows, and ensured zero-day vulnerability remediation across the server fleet.
+
+#### 🔐 Case Study 4: Enterprise-Wide Privileged Account Management (PAM) Rollout
+* **Architecture:** Designed and executed an enterprise-wide Privileged Account Management framework across IT engineering and operations personnel.
+* **Implementation:** Decoupled standard user identities from elevated administrative credentials, mandated MFA on privileged accounts, and established strict least-privilege boundaries.
+* **Operational Impact:** Mitigated lateral movement vectors and achieved 100% compliance with corporate privilege governance standards.
+
+#### 🔑 Case Study 5: Self-Service Password Reset (SSPR) Tooling Architecture
+* **Architecture:** Engineered an end-to-end SSPR solution progressing from Proof-of-Concept (POC) validation to full enterprise rollout.
+* **Implementation:** Integrated automated identity verification mechanisms with enterprise directory services to enable secure self-service credential recovery.
+* **Operational Impact:** Reduced identity-related support ticket volume by **over 40%**, removing recurring administrative bottlenecks.
+
+#### ☁️ Case Study 6: Enterprise Data Archival & Ingestion Pipelines (Azure Blob)
+* **Architecture:** Engineered automated data ingestion pipelines transferring legacy and on-premises archival data into Azure Blob Storage tiers.
+* **Implementation:** Built SFTP upload scripts with checksum validation, automated CFAX document-to-blob transformation routines, and Barracuda archival retention extraction.
+* **Operational Impact:** Modernized document retention workflows, improved data retrieval SLAs, and optimized long-term cloud storage expenditure.
+
+#### 🌐 Case Study 7: Enterprise IPAM, Citrix Performance Dashboards & Governance
+* **Architecture:** Deployed IP Address Management (IPAM) tooling for real-time visibility across hybrid subnet allocations and DNS mappings.
+* **Implementation:** Designed Citrix monitoring dashboards tracking session latency, concurrency, and host metrics; authored an internal wiki portal containing SOPs and recovery playbooks.
+* **Operational Impact:** Accelerated Tier-2/Tier-3 incident resolution times and eliminated subnet/IP conflict incidents.
+
+---
+
+## 📜 Professional Certifications & Education
+
+```
+  CERTIFICATIONS                                EDUCATIONAL BACKGROUND
+  ──────────────                                ──────────────────────
+  • AZ-700: Azure Network Engineer Associate    • Postgraduate Certificate: Applied Networking
+  • AZ-104: Azure Administrator Associate         & System Administration (2018)
+  • AZ-140: Azure Virtual Desktop Specialty       Conestoga College, Kitchener, ON, Canada
+  • AI-900: Azure AI Fundamentals               • Bachelor of Technology (B.Tech): CS (2016)
+  • AZ-900: Azure Fundamentals                    NIEC, IP University, Delhi (Dean's Honors List)
+```
 
 ---
 
 <div align="center">
-  <sub>Automating toil • Hardening enterprise infrastructure • Scalable systems reliability</sub>
-</div>
 
+```
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│  AUTOMATING TOIL • HARDENING ENTERPRISE INFRASTRUCTURE • SCALABLE SYSTEMS RELIABILITY │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
