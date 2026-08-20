@@ -191,7 +191,7 @@ I am a **DevSecOps, Cloud Reliability, and Kubernetes Engineer** specializing in
 <br />
 
 #### 🎓 Higher Education & Technical Learning
-* 📜 **Certified Kubernetes Administrator (CKA)** / **KCNA** *(Linux Foundation LFS250 & LFS258 Curriculum)*
+* 📜 **Kubernetes Administrator (CKA)** / **KCNA** *(Linux Foundation LFS250 & LFS258 Curriculum)*
 * 🎓 **Postgraduate Certificate:** Applied Networking and System Administration | *Conestoga College, Kitchener, ON, Canada* (2018)
 * 🎓 **Bachelor of Technology (B.Tech):** Computer Science | *NIEC, IP University, Delhi* (2016) — *Dean's Honors List*
 
