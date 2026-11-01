@@ -17,7 +17,7 @@
 ```bash
 vaibhav@devsecops-node:~$ whoami
 ▸ Role:         DevSecOps & Cloud Reliability Engineer
-▸ Location:     Woodstock, Ontario, Canada 🇨🇦
+▸ Location:     Toronto, Ontario, Canada 🇨🇦
 ▸ Core Focus:   Kubernetes Orchestration, DevSecOps Security, Cloud Infrastructure, Red Hat AWX/Tower
 ▸ Stack:        Kubernetes, Azure/GCP, Docker, ArgoCD, Terraform, Ansible AWX, Python, PowerShell, Bash
 ▸ Mission:      Securing CI/CD pipelines, orchestrating cloud-native platforms, & automating zero-drift fleets.
